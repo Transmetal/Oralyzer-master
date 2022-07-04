@@ -15,23 +15,12 @@ Also, Oralyzer has its own module to fetch URLs from web.archive.org, it then se
 ### Installation
 
 ```
-$ git clone https://github.com/r0075h3ll/Oralyzer.git
+$ git clone https://github.com/Transmetal/Oralyzer-master
 $ pip3 install -r requirements.txt
 ```
-
-### Usage
-<img src="https://i.ibb.co/xSdTvBW/carbon-1.png">
 
 ### Features
 
 - [x] Improved DOM XSS detection mechanism
 - [x] Test multiple parameters in one run
 - [x] CRLF Injection Detection
-
-### Contribution
-
-You can contribute to this project in following ways:
-
-- Create pull requests
-- Report bugs
-- Hit me up on <a href='http://twitter.com/r0075h3ll'>Twitter</a> with a new idea/feature
